@@ -2386,6 +2386,7 @@ img.testimonial-thumb {
 .footer {
   background-color: grey !important;
   color: white;
+  margin-top: 30px !important;
 }
 
 .footer-main {
