@@ -298,11 +298,34 @@ a:focus {
 
 .section-title {
   font-weight: 900;
-  font-size: 36px;
+  font-size: 30px;
   line-height: 46px;
-  margin: 0 0 60px;
+  margin: 0 0 5px;
   color: #212121;
 }
+
+.blog h5 {
+  font-weight: bold;
+  font-size: 16px;
+  margin: 10px 0 10px;
+}
+
+.blog p {
+  font-size: 14px;
+  line-height: 30px;
+  margin: 0 0 20px;
+}
+
+.coffee-mug {
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+.coffee-mug img {
+  transform: rotate(-5deg);
+  margin: auto 10px 0px 0px;
+}
+
 @media (max-width: 575px) {
   .section-title {
     font-size: 28px;
@@ -1539,7 +1562,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .into-title {
   font-weight: 900;
   text-transform: uppercase;
-  font-size: 32px;
+  font-size: 25px;
   line-height: normal;
   margin: 10px 0;
 }
@@ -2378,6 +2401,10 @@ img.testimonial-thumb {
 
 .ts-service-area {
   padding-bottom: 200px;
+}
+
+.ts-service-area h2 {
+  font-size: 25px;
 }
 
 .hero-contact {
