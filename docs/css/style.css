@@ -1339,7 +1339,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .slider.border:hover {
-  background: #ffb600;
+  background: #ffffff;
   border: 2px solid transparent;
 }
 
@@ -2378,6 +2378,13 @@ img.testimonial-thumb {
 
 .ts-service-area {
   padding-bottom: 200px;
+}
+
+.hero-contact {
+  color: #fff;
+  font-weight: bolder;
+  border: 2px solid #ffb600;
+  font-size: 50px;
 }
 
 /* Footer
