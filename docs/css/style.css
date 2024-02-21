@@ -2408,10 +2408,14 @@ img.testimonial-thumb {
 }
 
 .hero-contact {
-  color: #fff;
-  font-weight: bolder;
-  border: 2px solid #ffb600;
+  color: white;
   font-size: 50px;
+}
+
+.hero-contact:hover,
+.hero-contact:active {
+  background-color: blue !important;
+  color: white;
 }
 
 /* Footer
